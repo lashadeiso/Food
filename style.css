@@ -28,7 +28,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0.2rem 0.2rem 0.2rem #a79a2d;
+    box-shadow: 0.2rem 0.2rem 0.2rem #000;
     transition: top 0.4s;
 }
 .navbar.change{
